@@ -2,7 +2,14 @@
   "servers": {
     "Figma MCP": {
       "command": "cmd",
-      "args": ["/c", "npx", "-y", "figma-developer-mcp", "--figma-api-key=figd_6l1-EiWm1ILDASZG1KzaJmw9pdLmDwBguDj74guV", "--stdio"]
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "figma-developer-mcp",
+        "--figma-api-key=SUA_CHAVE_DO_FIGMA_AQUI",
+        "--stdio"
+      ]
     }
   }
 }
